@@ -1,3 +1,4 @@
 *.mat
 *.pdf
+*.txt
 .DS_Store
